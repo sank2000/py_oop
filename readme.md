@@ -1,3 +1,3 @@
 # Read Me
 ## Python object oriented programming repository
-gonna do python oops
+This repository basically contains some junk files for the sake of learning object oriented programming in python3.
